@@ -5,7 +5,7 @@
   <groupId>org.kie.example</groupId>
   <artifactId>project1</artifactId>
   <version>1.0.0</version>
-  <description>aaabbb</description>
+  <description>aaabbbccc</description>
   <repositories>
     <repository>
       <id>guvnor-m2-repo</id>

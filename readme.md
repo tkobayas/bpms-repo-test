@@ -1,4 +1,2 @@
-Repository Init Content
-=======================
+This is a sample repo to be cloned by BxMS Administration "Clone Repository" with github URL.
 
-Your project description here.
